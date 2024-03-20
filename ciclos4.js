@@ -1,4 +1,4 @@
-/* Escribir un programa que imprima por pantalla los cuadrados de los números del 1 al 30. */
+/* Escribir un programa que imprima por pantalla los cuadrados de los números del 1 al 30 */
 
 let i = 1;
 

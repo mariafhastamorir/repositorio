@@ -1,5 +1,5 @@
 /* Escribir un programa que sume los cuadrados de los cien primeros números naturales,
-mostrando el resultado en pantalla */
+mostrando el resultado en pantalla. */
 
 let total = 0;
 let suma = 0;

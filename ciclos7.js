@@ -1,3 +1,4 @@
+/* Sumar todos los números que se digitan por teclado mientras no sea cero.*/
 let numeros = [3, 7, 11, 5, 2, 0, 8];
 let suma = 0;
 let i = 0;

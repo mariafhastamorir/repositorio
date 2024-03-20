@@ -1,4 +1,4 @@
-/*  Imprimir los números impares entre 0 y 100. */
+/*  Imprimir los números impares entre 0 y 100 */
 
 let i = 1;
 while(i<101){
